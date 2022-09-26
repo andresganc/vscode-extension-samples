@@ -1,2 +1,4 @@
-# course-digital-marketing
-NC Course - Digital Marketing
+
+# VSCode Extension Samples
+
+- VSCode Extension Samples
